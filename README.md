@@ -6,11 +6,11 @@ python make_graph.py
 ```
 2. Train the preditor:
 ```
-python make_graph.py
+python graph_train.py
 ```
 3. Generate the learnable flow:
 ```
-python graph_l_flow.py
+python gen_l_flow.py
 ```
 4. Run l_mask guided placement:
 ```
